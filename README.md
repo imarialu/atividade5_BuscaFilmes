@@ -7,7 +7,7 @@ Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada 
 
 ### 📌 Menu:
   - Links que permitem a navegação entre as páginas.
-### 🔎 Pagina Inicial:
+### 🔎 Página Inicial:
 - Campo de busca.
 - Lista de resultados, onde é possível visualizar:
     - Pôster do filme
@@ -15,7 +15,7 @@ Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada 
     - Ano de lançamento
     - Link para visualizar detalhes
     - Botão de favoritar
-### 🧾 Pagina de Detalhes:
+### 🧾 Página de Detalhes:
 - Exibição das seguintes informações sobre o filme selecionado:
     - Pôster
     - Título
@@ -25,7 +25,7 @@ Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada 
     - Diretor(a)
     - Atores
     - Sinopse.
-### 🌟 Pagina de Favoritos: 
+### 🌟 Página de Favoritos: 
 - Lista com os filmes favoritados pelos usuários.
 
 ---
