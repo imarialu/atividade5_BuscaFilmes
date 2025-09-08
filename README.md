@@ -24,7 +24,7 @@ Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada 
     - Ano de lançamento
     - Diretor(a)
     - Atores
-    - Sinopse.
+    - Sinopse
 ### 🌟 Página de Favoritos: 
 - Lista com os filmes favoritados pelos usuários.
 
