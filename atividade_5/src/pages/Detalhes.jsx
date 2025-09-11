@@ -87,6 +87,11 @@ const Plot = styled.p `
     font-weight: 450;
 `
 
+const Loading = styled.p `
+    text-align: center;
+
+`
+
 function Detalhes(){
     const [filme, setFilme] = useState([]);
     const [loading, setLoading] = useState(true);
@@ -106,7 +111,7 @@ function Detalhes(){
 
     if(loading){
         return (
-            <p>Carregando...</p>
+            <Loading>Carregando...</Loading>
         )
     }
 
@@ -130,7 +135,7 @@ function Detalhes(){
 
                     <Plot>{filme.Plot}</Plot>
 
-                    <StrongD>DIRETOR(A) </StrongD>
+                    <StrongD>DIREÇÃO</StrongD>
                     <Director>{filme.Director}</Director>
                     <StrongA>ATORES</StrongA>
                     <Actors>{filme.Actors}</Actors>

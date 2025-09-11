@@ -25,6 +25,11 @@ const FilmesGrid = styled.div `
     text-align: center;
 `
 
+const Loading = styled.p `
+    text-align: center;
+
+`
+
 function Favoritos(){
     const [filmes, setFilmes] = useState([]);
     const [loading, setLoading] = useState(true);
@@ -38,7 +43,7 @@ function Favoritos(){
 
     if(loading){
         return (
-            <p>Carregando...</p>
+            <Loading>Carregando...</Loading>
         )
     }
 
