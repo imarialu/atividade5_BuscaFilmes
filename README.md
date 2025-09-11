@@ -22,7 +22,7 @@ Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada 
     - Gênero
     - Duração
     - Ano de lançamento
-    - Diretor(a)
+    - Direção
     - Atores
     - Sinopse
 ### 🌟 Página de Favoritos: 
