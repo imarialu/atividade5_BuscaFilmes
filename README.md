@@ -50,7 +50,7 @@ git clone https://github.com/imarialu/atividade5_BuscaFilmes
 npm install
 ```
 
-**2. Rode a aplicação:**
+**3. Rode a aplicação:**
 ```bash
 npm run dev
 ```
