@@ -50,11 +50,7 @@ git clone https://github.com/imarialu/atividade5_BuscaFilmes
 npm install
 ```
 
-**3. Gere uma chave na API:**
-- Crie uma conta no OMDb e solicite uma chave.
-- Com a chave criada, adicione a mesma na url que está no arquivo Home.jsx e Detalhes.jsx.
-
-**4. Rode a aplicação:**
+**2. Rode a aplicação:**
 ```bash
 npm run dev
 ```
