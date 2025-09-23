@@ -1,5 +1,5 @@
 # :notebook: 5ª Atividade - Aplicação de Busca de Filmes 🎥
-Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada durante a formação Dev. Full-Stack Jr. oferecida pela +PraTi e Codifica. O projeto tem como objetivo apresentar uma aplicação desenvolvida em React que consuma a API do OMDb e permita que os usuários busquem filmes e visualizem seus detalhes.
+Essa aplicação foi desenvolvida para ser submetida a 5ª atividade solicitada durante a formação Dev. Full Stack Jr. oferecida pela +praTi e Codifica. O projeto tem como objetivo apresentar uma aplicação desenvolvida em React que consuma a API do OMDb e permita que os usuários busquem filmes e visualizem seus detalhes.
 
 ---
 
